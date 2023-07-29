@@ -7,7 +7,12 @@ function Post({ arr }) {
       arr.map(item => {
         return (
           <article className='post'>
-            <img className='post__img' src={item.img_2x} />
+            <img 
+              className='post__img' 
+              src={item.img} 
+              srcSet={item.img_2x} 
+              alt='post avatar' 
+            />
             <p className='post__tag'>{item.tags}</p>
             <p className='post__title'>{item.title}</p>
             <p className='post__author'>{item.autor}</p>
