@@ -1,7 +1,7 @@
 {
   "name": "blog-app",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://janich96.github.io/blog-app",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
