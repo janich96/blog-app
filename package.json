@@ -1,7 +1,7 @@
 {
   "name": "blog-app",
   "version": "0.1.0",
-  "homepage": "https://janich96.github.io/blog-app",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
